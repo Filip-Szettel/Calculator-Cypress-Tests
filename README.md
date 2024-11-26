@@ -169,7 +169,7 @@ Projekt zawiera zestaw testów automatycznych napisanych w Cypress, które spraw
 
 ## Autor
 
-**Jan Kowalski**
+**Filip Szettel**
 
 - **Email:** gax35208@student.gdynia.merito.pl
 - **GitHub:** [github.com/Filip-Szettel/Calculator-Cypress-Tests](https://github.com/Filip-Szettel/Calculator-Cypress-Tests)
