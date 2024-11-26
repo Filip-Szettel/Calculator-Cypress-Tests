@@ -1,4 +1,4 @@
-/// <reference types="cypress" />
+//<reference types="cypress" />
 
 describe('Glassmorphism Calculator', () => {
     // Mapping of operation names to their corresponding data-testid attributes
