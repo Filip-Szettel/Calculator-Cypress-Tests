@@ -164,8 +164,8 @@ Projekt zawiera zestaw testów automatycznych napisanych w Cypress, które spraw
 
 ## Screenshoty
 
-![Kalkulator - Motyw Jasny](screenshots/2024-11-26_19-37.bmp)
-![Kalkulator - Motyw Ciemny](screenshots/2024-11-26_19-38.bmp)
+![Kalkulator - Motyw Jasny](documentation/screenshots/2024-11-26_19-37.bmp)
+![Kalkulator - Motyw Ciemny](documentation/screenshots/2024-11-26_19-38.bmp)
 
 ## Autor
 
